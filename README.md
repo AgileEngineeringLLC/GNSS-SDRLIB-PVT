@@ -8,9 +8,12 @@ Purpose. This is a significantly-modifed version of GNSS-SDRLIB. Instead of requ
 Limitations. This is a highly stripped-down version of GNSS-SDRLIB, in an attempt to create a more truly real-time and robust GPS SDR. This version is GPS L1 only, Linux only (not Windows), and only currently works with RTLSDR or bladeRF front ends.
 
 Videos. The following three videos are available on Youtube:
-Part 1. Overview of Features and Modifications. Link:
-Part 2. Hardware Used, and Software Builds. Link:
-Part 3. Demo of Playback and Real-Time Modes. Link:
+
+Part 1. Overview of Features and Modifications. Link: https://youtu.be/VLlu77O3vec
+
+Part 2. Hardware Used, and Software Builds. Link: https://youtu.be/R3IFhFoblQU 
+
+Part 3. Demo of Playback and Real-Time Modes. Link: https://youtu.be/8pV1hX6IkFk 
 
 Acknowledgements. This software is a modified version of the original 2014 GNSS-SDRLIB code (https://github.com/taroz/GNSS-SDRLIB). Please refer to the videos listed above for a description of features and the modifications made. The author is very grateful for Taro Suzuki's original development of GNSS-SDRLIB, as it is a terrific learning tool, is thoughtfully written, with clear variables and code comments. 
 
